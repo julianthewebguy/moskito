@@ -1,5 +1,3 @@
-<script type="text/javascript">
-
     jQuery(document).ready(function () {
         if (window.location.href.indexOf("listing_") > -1 || window.location.href.indexOf("listingid") > -1 || window.location.href.indexOf("Listing_") > -1) {
 
@@ -73,4 +71,3 @@
             });
         });
     })(jQuery);
-</script>
