@@ -29,7 +29,7 @@
             //console.log('AM');
         }
         else {
-            var header = document.getElementsByTagName('pre-header')[1];
+            var header = document.getElementsByTagName('pre-header')[0];
         }
         // Get the offset position of the navbar
         var sticky = header.offsetTop;
